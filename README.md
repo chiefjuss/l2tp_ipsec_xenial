@@ -3,4 +3,3 @@
 
 Clone repo and run installvpn.sh, then reboot!
 
-Configure a new VPN connection as per instructions on wiki.
